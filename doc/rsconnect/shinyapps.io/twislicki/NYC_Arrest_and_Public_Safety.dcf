@@ -1,0 +1,13 @@
+name: NYC_Arrest_and_Public_Safety
+title: NYC_Arrest_and_Public_Safety
+username:
+account: twislicki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7291516
+bundleId: 6396983
+url: https://twislicki.shinyapps.io/NYC_Arrest_and_Public_Safety/
+when: 1665611288.18571
+lastSyncTime: 1665611288.18572
+asMultiple: FALSE
+asStatic: FALSE
