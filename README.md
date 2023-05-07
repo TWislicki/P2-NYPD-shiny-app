@@ -19,31 +19,10 @@ The **learning goals** for this project is:
 ## Project: NYPD Arrest Activities
 Term: Fall 2022
 
-+ Team # Group 10
-+ **Crime Data Shiny app**:
-	+ Cheng, Louis
-	+ Li, Shuangxian
-	+ Wang, Yayuan
-	+ Wislicki, Tomasz
-
 +shiny link:
 
 + **Project summary**: Utilizing the arrest data provided by NYPD, this application aims to provide insight into the public security and police enforcement activities in New York from January 2011 to June 2022. The application includes one map, a time series plot, and pie charts to further break down the arrest activities into the perpetrators' gender, age, race, and the location of the arrest event.
 
-
-+ **Contribution statement**: 
-
-Yayuan and Shuangxian chose the dataset and the topic.
-
-Shuangxian constructed the frame of the application page and designed the time series tab and pie chart tab.
-
-Yayuan created and wrote up the Home and Appendix page and designed the map tab. 
-
-Shuangxian and Yayuan helped polish and improve the visualizations for each other.
-
-Tomasz and Louis designed the radar chart and integrated it in the UI. Both worked together to polish the visualizations and description for Home page.
-
-Louis rearranged and organised the repo, resolving conflicts between files.
 
 + **Data source**: 
 NYC Open Data:  
